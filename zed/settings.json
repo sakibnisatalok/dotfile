@@ -1,0 +1,96 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "cli_default_open_behavior": "new_window",
+  "show_whitespaces": "boundary",
+  "tab_size": 5,
+  "tab_bar": {
+    "show": false
+  },
+  "show_edit_predictions": false,
+  "diagnostics_max_severity": "off",
+  "title_bar": {
+    "open_menus_on_hover": true
+  },
+  "diagnostics": {
+    "include_warnings": false
+  },
+  "scrollbar": {
+    "show": "never"
+  },
+  "edit_predictions": {
+    "mode": "subtle"
+  },
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 400
+    }
+  },
+  "search": {
+    "regex": false
+  },
+  "proxy": "",
+  "icon_theme": {
+    "mode": "light",
+    "light": "Colored Zed Icons Theme Dark",
+    "dark": "JetBrains Icons Light"
+  },
+  "project_panel": {
+    "dock": "left",
+  },
+  "outline_panel": {
+    "dock": "left",
+  },
+  "collaboration_panel": {
+    "dock": "left",
+  },
+  "agent": {
+    "terminal_init_command": "",
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "gpt-6.1-sol",
+      "enable_thinking": true,
+      "effort": "medium"
+    },
+    "default_profile": "ask",
+    "dock": "right",
+    "favorite_models": [],
+    "model_parameters": [],
+  },
+  "git_panel": {
+    "dock": "left",
+  },
+  "calls": {
+    "mute_on_join": true,
+  },
+  "disable_ai": false,
+
+  "theme": {
+    "mode": "dark",
+    "light": "Ayu Light",
+    "dark": "GitHub Dark Dimmed",
+  },
+
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_size": 14,
+  "ui_font_family": "JetBrains Mono",
+  "ui_font_size": 16,
+  "terminal": {
+    "copy_on_select": true,
+    "alternate_scroll": "off",
+    "scrollbar": {
+      "show": "never"
+    },
+    "toolbar": {
+      "breadcrumbs": false
+    },
+    "font_family": "JetBrains Mono",
+    "font_size": 14,
+  },
+}

@@ -1,0 +1,17 @@
+# Git initialization is intentionally left to the owner.
+.DS_Store
+.local/
+# The working third-party framework is installed separately, not a submodule.
+zsh/oh-my-zsh/
+zsh/envman-compat/ENV.env
+# Local credentials, overrides, logs and editor recovery files.
+*.local
+*.local.zsh
+.env
+.env.*
+!.env.example
+*.log
+*.swp
+*.swo
+*~
+

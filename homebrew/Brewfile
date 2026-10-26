@@ -1,0 +1,12 @@
+# Curated applications and commands used by the preserved shell configuration.
+# This is an allowlist, not an export of everything installed on the source Mac.
+# bootstrap.sh installs missing entries only; it does not upgrade existing apps.
+brew "neovim"
+brew "tmux"
+brew "pyenv"
+brew "zoxide"
+brew "mysql-client"
+cask "ghostty"
+cask "zed"
+# Exact source-Mac font files are restored by scripts/restore-fonts.py.
+

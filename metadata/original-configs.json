@@ -1,0 +1,152 @@
+[
+  {
+    "source": "/Users/sakibnisatalok/.zshrc",
+    "repository_path": "zsh/.zshrc",
+    "sha256": "81b104a66ae49f25a8537906db15872314b7c144c3596644e07f2b5728bea5d5",
+    "bytes": 5348
+  },
+  {
+    "source": "/Users/sakibnisatalok/.zprofile",
+    "repository_path": "zsh/.zprofile",
+    "sha256": "a302469e1ebfa22a1499128c9170855bbef9057c962ce561ce6b37f503f664b9",
+    "bytes": 214
+  },
+  {
+    "source": "/Users/sakibnisatalok/.config/zed/settings.json",
+    "repository_path": "zed/settings.json",
+    "sha256": "4922f5ad1a3dd0a50b412ed27fe4a7baf52b419b193cd8975959785bf3f3503e",
+    "bytes": 1986
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Application Support/com.mitchellh.ghostty/config",
+    "repository_path": "ghostty/config",
+    "sha256": "9b90f17cd08f0a8c41d416061719eca2f67abe6b746bf87ee5d38ccc6542a6ce",
+    "bytes": 1892
+  },
+  {
+    "source": "/Users/sakibnisatalok/.config/envman/alias.env",
+    "repository_path": "zsh/envman-compat/alias.env",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "source": "/Users/sakibnisatalok/.config/envman/load.sh",
+    "repository_path": "zsh/envman-compat/load.sh",
+    "sha256": "b59ac6abce22fb728b28e64a228bb3db538d42aaa1ae12662795524245951308",
+    "bytes": 602
+  },
+  {
+    "source": "/Users/sakibnisatalok/.config/envman/function.sh",
+    "repository_path": "zsh/envman-compat/function.sh",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "source": "/Users/sakibnisatalok/.config/envman/PATH.env",
+    "repository_path": "zsh/envman-compat/PATH.env",
+    "sha256": "9ff53e7d75b04bc382950419e2f09a2c72bea95dfe51c9cfee91608d661b60ec",
+    "bytes": 114
+  },
+  {
+    "source": "/Users/sakibnisatalok/.config/envman/ENV.env",
+    "repository_path": "zsh/envman-compat/ENV.env",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "source": "/Users/sakibnisatalok/.oh-my-zsh/completions/_kubectl",
+    "repository_path": "zsh/completions/_kubectl",
+    "sha256": "7cbf9498c78d5a8259cbd9fe10a3e6d5b913c0002d8d41f38b3e3dddbde37c3a",
+    "bytes": 8414
+  },
+  {
+    "source": "/Users/sakibnisatalok/.oh-my-zsh/completions/_docker",
+    "repository_path": "zsh/completions/_docker",
+    "sha256": "ac0bd6fadaca925a40e36bde5d95a5bc64165c673d000d189d31606e3ea7fa33",
+    "bytes": 7748
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFont-Italic.ttf",
+    "repository_path": "fonts/files/HackNerdFont-Italic.ttf",
+    "sha256": "c54feb21d2296e112aea1867284343aef67173046b05e4446d700e1acc7aec9e",
+    "bytes": 2805596
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFontPropo-BoldItalic.ttf",
+    "repository_path": "fonts/files/HackNerdFontPropo-BoldItalic.ttf",
+    "sha256": "c0d27b05e31d73777741b056c45290365be9843fe4a8a44107951a650c121308",
+    "bytes": 2812016
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFontPropo-Regular.ttf",
+    "repository_path": "fonts/files/HackNerdFontPropo-Regular.ttf",
+    "sha256": "81c4fe14ac6d7866f84d881eb5b0edf726eb21f07dd9228d3ac4895cd371ff46",
+    "bytes": 2797952
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFontMono-Italic.ttf",
+    "repository_path": "fonts/files/HackNerdFontMono-Italic.ttf",
+    "sha256": "7b45fbee724e4a58bca6e23d176006d6334cdc848d0ec53ec38daef252900fa8",
+    "bytes": 2786320
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/JetBrainsMono-Regular.ttf",
+    "repository_path": "fonts/files/JetBrainsMono-Regular.ttf",
+    "sha256": "a0bf60ef0f83c5ed4d7a75d45838548b1f6873372dfac88f71804491898d138f",
+    "bytes": 273900
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFont-BoldItalic.ttf",
+    "repository_path": "fonts/files/HackNerdFont-BoldItalic.ttf",
+    "sha256": "81f1b2b159e934f29c355814ce4f0e7bcbc3926a46a4c46da89f7e0bb7873ad9",
+    "bytes": 2812228
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFontMono-Regular.ttf",
+    "repository_path": "fonts/files/HackNerdFontMono-Regular.ttf",
+    "sha256": "e5aeb58577a8acf2b42083e4a07ce48bd53116fdd868636403cadb5b547351be",
+    "bytes": 2778948
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFontMono-BoldItalic.ttf",
+    "repository_path": "fonts/files/HackNerdFontMono-BoldItalic.ttf",
+    "sha256": "ad9e8d4504c0ffaab07ff44bb98cc0cfd67655df9cda97f5c9fc15e77b301497",
+    "bytes": 2792948
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFontPropo-Bold.ttf",
+    "repository_path": "fonts/files/HackNerdFontPropo-Bold.ttf",
+    "sha256": "2d2381c1ca2fb0a1066a9412cdc10df0f1f25140d084554214c33dc96f8295fe",
+    "bytes": 2806340
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/JetBrainsMonoNL-Medium.ttf",
+    "repository_path": "fonts/files/JetBrainsMonoNL-Medium.ttf",
+    "sha256": "44099e1efefba55637e0abbbf8dd3f526e59523345888a257bb01d39df4af74c",
+    "bytes": 208276
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFont-Bold.ttf",
+    "repository_path": "fonts/files/HackNerdFont-Bold.ttf",
+    "sha256": "add70efb723227c08400c4d0f0068cf9f1783e22f6702b811bafbf3f5920902c",
+    "bytes": 2806552
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFont-Regular.ttf",
+    "repository_path": "fonts/files/HackNerdFont-Regular.ttf",
+    "sha256": "8cba545f0ab36d8f313a448676df9988d6c679a014ffed863e52305844e7b113",
+    "bytes": 2798160
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFontPropo-Italic.ttf",
+    "repository_path": "fonts/files/HackNerdFontPropo-Italic.ttf",
+    "sha256": "b9aa1b4b3c1630f04c95c3a3cff838220f50820c497ce85611cf00ce44425469",
+    "bytes": 2805384
+  },
+  {
+    "source": "/Users/sakibnisatalok/Library/Fonts/HackNerdFontMono-Bold.ttf",
+    "repository_path": "fonts/files/HackNerdFontMono-Bold.ttf",
+    "sha256": "7c2c76c26ff80fb546798b204ae519335573417c969eb3142d202298722d3832",
+    "bytes": 2787176
+  }
+]

@@ -1,0 +1,13 @@
+# Repository-relative source<TAB>home-relative destination.
+zsh/.zshrc	.zshrc
+zsh/.zprofile	.zprofile
+zsh/oh-my-zsh	.oh-my-zsh
+zsh/envman-compat	.config/envman
+vim/vimrc	.vimrc
+nvim	.config/nvim
+ghostty/config	Library/Application Support/com.mitchellh.ghostty/config
+tmux/tmux.conf	.tmux.conf
+zed/settings.json	.config/zed/settings.json
+zed/themes	.config/zed/themes
+homebrew/Brewfile	Brewfile
+

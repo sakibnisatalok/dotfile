@@ -1,0 +1,170 @@
+{
+  "assembly": {
+    "version": "0.1.0",
+    "repository": "https://github.com/DevBlocky/zed-asm"
+  },
+  "colored-zed-icons-theme": {
+    "version": "0.3.1",
+    "repository": "https://github.com/TheRedXD/zed-icons-colored-theme"
+  },
+  "comment": {
+    "version": "0.6.8",
+    "repository": "https://github.com/thedadams/zed-comment"
+  },
+  "csv": {
+    "version": "0.0.3",
+    "repository": "https://github.com/huacnlee/zed-csv"
+  },
+  "dafny": {
+    "version": "0.0.1",
+    "repository": "https://github.com/weethet/dafny-zed"
+  },
+  "docker-compose": {
+    "version": "0.1.0",
+    "repository": "https://github.com/eth0net/zed-docker-compose"
+  },
+  "dockerfile": {
+    "version": "0.3.0",
+    "repository": "https://github.com/zed-extensions/dockerfile"
+  },
+  "emmet": {
+    "version": "0.0.15",
+    "repository": "https://github.com/zed-extensions/emmet"
+  },
+  "fortran": {
+    "version": "0.0.3",
+    "repository": "https://github.com/Xavier-Maruff/zed-fortran"
+  },
+  "git-firefly": {
+    "version": "0.1.9",
+    "repository": "https://github.com/d1y/git_firefly"
+  },
+  "github-theme": {
+    "version": "0.1.9",
+    "repository": "https://github.com/PyaeSoneAungRgn/github-zed-theme"
+  },
+  "grove-theme": {
+    "version": "0.0.1",
+    "repository": "https://github.com/HimaAramona/grove-theme"
+  },
+  "gruvbox-baby": {
+    "version": "0.0.1",
+    "repository": "https://github.com/gbo-dev/gruvbox-baby-zed"
+  },
+  "gruvbox-crisp-themes": {
+    "version": "0.2.0",
+    "repository": "https://github.com/VatsalSy/zed-gruvbox_custom_themes"
+  },
+  "gruvbox-material": {
+    "version": "1.1.0",
+    "repository": "https://github.com/tokiory/zed-gruvbox-material"
+  },
+  "gruvbox-material-mix": {
+    "version": "1.0.1",
+    "repository": "https://github.com/hyperdevstuff/zed-gruvbox-material"
+  },
+  "gruvbox-material-neovim": {
+    "version": "0.1.0",
+    "repository": "https://github.com/RiverMatsumoto/gruvbox-material-nvim-zed"
+  },
+  "html": {
+    "version": "0.3.2",
+    "repository": "https://github.com/zed-industries/zed"
+  },
+  "intellij-newui-theme": {
+    "version": "0.1.0",
+    "repository": "https://github.com/kpitt/zed-theme-intellij-newui"
+  },
+  "javascript-snippets": {
+    "version": "0.1.0",
+    "repository": "https://github.com/seekode/zed-js-snippets"
+  },
+  "jetbrains-icons": {
+    "version": "0.0.3",
+    "repository": "https://github.com/ziishaned/zed-jetbrains-icons"
+  },
+  "jetbrains-new-ui-icons": {
+    "version": "2.2.1",
+    "repository": "https://github.com/ankddev/zed-jetbrains-newui-icons"
+  },
+  "jetbrains-themes": {
+    "version": "1.4.0",
+    "repository": "https://github.com/artemevsevev/zed-theme-jetbrains"
+  },
+  "latex": {
+    "version": "0.2.3",
+    "repository": "https://github.com/rzukic/zed-latex"
+  },
+  "lean4": {
+    "version": "0.1.0",
+    "repository": "https://github.com/owlx56/zed-lean4"
+  },
+  "lua": {
+    "version": "0.1.11",
+    "repository": "https://github.com/zed-extensions/lua"
+  },
+  "make": {
+    "version": "1.1.2",
+    "repository": "https://github.com/caius/zed-make"
+  },
+  "markdownlint": {
+    "version": "0.4.0",
+    "repository": "https://github.com/vitallium/zed-markdownlint"
+  },
+  "material-icon-theme": {
+    "version": "1.3.2",
+    "repository": "https://github.com/zed-extensions/material-icon-theme"
+  },
+  "neovim-default": {
+    "version": "0.3.0",
+    "repository": "https://github.com/KimNorgaard/zed-neovim-default.git"
+  },
+  "php": {
+    "version": "0.5.4",
+    "repository": "https://github.com/zed-extensions/php"
+  },
+  "prisma": {
+    "version": "0.1.10",
+    "repository": "https://github.com/zed-extensions/prisma"
+  },
+  "pylsp": {
+    "version": "0.0.1",
+    "repository": "https://github.com/rgbkrk/python-lsp-zed-extension"
+  },
+  "python-requirements": {
+    "version": "0.0.5",
+    "repository": "https://github.com/dargor/zed-python-requirements"
+  },
+  "python-snippets": {
+    "version": "0.1.3",
+    "repository": "https://github.com/jctosta/python-zed-snippets"
+  },
+  "qml": {
+    "version": "0.0.4",
+    "repository": "https://github.com/lkroll/zed-qml"
+  },
+  "sql": {
+    "version": "1.1.8",
+    "repository": "https://github.com/zed-extensions/sql"
+  },
+  "toml": {
+    "version": "1.1.0",
+    "repository": "https://github.com/zed-extensions/toml"
+  },
+  "toon": {
+    "version": "0.0.2",
+    "repository": "https://github.com/3swordman/zed-toon"
+  },
+  "tsgo": {
+    "version": "1.1.0",
+    "repository": "https://github.com/zed-extensions/tsgo"
+  },
+  "xml": {
+    "version": "0.2.0",
+    "repository": "https://github.com/sweetppro/zed-xml"
+  },
+  "zig": {
+    "version": "0.4.2",
+    "repository": "https://github.com/zed-extensions/zig"
+  }
+}
